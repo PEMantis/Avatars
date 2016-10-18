@@ -1,0 +1,84 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Fonts/InterfaceFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:Fonts/InterfaceFont.spritefont
+
+#begin GameScreens/menuscreen.png
+/copy:GameScreens/menuscreen.png
+
+#begin GameScreens/titlescreen.png
+/copy:GameScreens/titlescreen.png
+
+#begin Misc/wooden-button.png
+/copy:Misc/wooden-button.png
+
+#begin Tiles/tileset1.png
+/copy:Tiles/tileset1.png
+
+#begin CharacterSprites/teacherone.png
+/copy:CharacterSprites/teacherone.png
+
+#begin CharacterSprites/teachertwo.png
+/copy:CharacterSprites/teachertwo.png
+
+#begin PlayerSprites/femaleplayer.png
+/copy:PlayerSprites/femaleplayer.png
+
+#begin PlayerSprites/maleplayer.png
+/copy:PlayerSprites/maleplayer.png
+
+#begin Scenes/scenebackground.png
+/copy:Scenes/scenebackground.png
+
+#begin Fonts/scenefont.spritefont
+/copy:Fonts/scenefont.spritefont
+
+#begin Misc/selected.png
+/copy:Misc/selected.png
+
+#begin Misc/avatarborder.png
+/copy:Misc/avatarborder.png
+
+#begin Misc/avatarhealth.png
+/copy:Misc/avatarhealth.png
+
+#begin Fonts/GameFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:TextureFormat=Compressed
+/build:Fonts/GameFont.spritefont
+
+#begin AvatarImages/dark.PNG
+/copy:AvatarImages/dark.PNG
+
+#begin AvatarImages/earth.PNG
+/copy:AvatarImages/earth.PNG
+
+#begin AvatarImages/fire.PNG
+/copy:AvatarImages/fire.PNG
+
+#begin AvatarImages/light.PNG
+/copy:AvatarImages/light.PNG
+
+#begin AvatarImages/water.PNG
+/copy:AvatarImages/water.PNG
+
+#begin AvatarImages/wind.PNG
+/copy:AvatarImages/wind.PNG
+
